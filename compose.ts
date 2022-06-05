@@ -1,4 +1,4 @@
-type MyBool = true | false;
+// type MyBool = true | false;
 
 type WindowStates = 'open' | 'closed' | 'minimized';
 type LockStates = 'locked' | 'unlocked';
